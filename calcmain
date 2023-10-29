@@ -1,0 +1,7 @@
+class RestBill{
+  public satatic void main (String args[]){
+    double bill, prince1, price2; 
+    bill = price1 + price 2; 
+    System.out.println("Total: "+bill); 
+  }
+}
